@@ -1,0 +1,11 @@
+<svg width="600" height="380" viewBox="0 0 600 380" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="600" height="380" rx="28" fill="#F4F7FB"/>
+  <rect x="86" y="95" width="428" height="220" rx="26" fill="#FFFFFF" stroke="#D8E0EA"/>
+  <rect x="126" y="136" width="348" height="138" rx="18" fill="#FCE6E6" stroke="#E7B9B9"/>
+  <ellipse cx="236" cy="204" rx="74" ry="46" fill="#EFAFAF"/>
+  <ellipse cx="359" cy="204" rx="74" ry="46" fill="#EFAFAF"/>
+  <circle cx="216" cy="193" r="10" fill="#D68F8F"/>
+  <circle cx="338" cy="220" r="9" fill="#D68F8F"/>
+  <rect x="160" y="288" width="280" height="16" rx="8" fill="#D6E0EC"/>
+  <text x="300" y="67" text-anchor="middle" fill="#263648" font-family="Manrope, Arial, sans-serif" font-size="30" font-weight="700">Pollo marinado</text>
+</svg>

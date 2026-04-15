@@ -1,0 +1,11 @@
+/* Isolate expensive sections to reduce repaint impact */
+.hero,
+.world-map,
+.marketplace,
+.esp32 {
+  contain: layout paint;
+}
+
+img {
+  content-visibility: auto;
+}
