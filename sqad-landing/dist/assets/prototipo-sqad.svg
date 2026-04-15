@@ -1,0 +1,82 @@
+<svg width="1600" height="920" viewBox="0 0 1600 920" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Prototipo SQAD</title>
+  <desc id="desc">Mockup de landing empresarial SQAD con secciones de producto y métricas</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="920" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F7F9FC"/>
+      <stop offset="1" stop-color="#EFF2F6"/>
+    </linearGradient>
+    <linearGradient id="hero" x1="180" y1="150" x2="1420" y2="390" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFF2F2"/>
+      <stop offset="0.5" stop-color="#FFF8E8"/>
+      <stop offset="1" stop-color="#ECF9F3"/>
+    </linearGradient>
+    <linearGradient id="cta" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#C03535"/>
+      <stop offset="1" stop-color="#8D2222"/>
+    </linearGradient>
+    <filter id="shadow" x="0" y="0" width="2000" height="1200" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="14" stdDeviation="18" flood-opacity="0.12"/>
+    </filter>
+  </defs>
+
+  <rect width="1600" height="920" fill="url(#bg)"/>
+
+  <g filter="url(#shadow)">
+    <rect x="90" y="56" width="1420" height="808" rx="24" fill="white"/>
+  </g>
+
+  <rect x="120" y="86" width="1360" height="62" rx="31" fill="#F5F8FB" stroke="#D8E0E9"/>
+  <rect x="150" y="108" width="14" height="14" rx="4" fill="#BF2D2D"/>
+  <text x="174" y="121" fill="#1E2B3A" font-family="Manrope, Arial, sans-serif" font-size="18" font-weight="800">SQAD</text>
+  <text x="590" y="121" fill="#425265" font-family="Manrope, Arial, sans-serif" font-size="13" font-weight="600">Empresa</text>
+  <text x="670" y="121" fill="#425265" font-family="Manrope, Arial, sans-serif" font-size="13" font-weight="600">Producto</text>
+  <text x="760" y="121" fill="#425265" font-family="Manrope, Arial, sans-serif" font-size="13" font-weight="600">Ventajas</text>
+  <text x="850" y="121" fill="#425265" font-family="Manrope, Arial, sans-serif" font-size="13" font-weight="600">Soluciones</text>
+
+  <rect x="1170" y="98" width="280" height="38" rx="19" fill="white" stroke="#D1DAE5"/>
+  <text x="1235" y="123" fill="#2C3A4A" font-family="Manrope, Arial, sans-serif" font-size="13" font-weight="700">Solicitar Demo</text>
+
+  <rect x="135" y="176" width="1330" height="210" rx="24" fill="url(#hero)" stroke="#D9E2ED"/>
+  <text x="800" y="236" text-anchor="middle" fill="#8D2234" font-family="Manrope, Arial, sans-serif" font-size="12" letter-spacing="2" font-weight="800">FOOD LOSS INTELLIGENCE PLATFORM</text>
+  <text x="800" y="288" text-anchor="middle" fill="#132135" font-family="'DM Serif Display', Georgia, serif" font-size="52">Menos merma, más margen</text>
+  <text x="800" y="322" text-anchor="middle" fill="#546174" font-family="Manrope, Arial, sans-serif" font-size="18">Monitoreo inteligente para decisiones comerciales en tiempo real.</text>
+
+  <rect x="620" y="344" width="170" height="38" rx="19" fill="url(#cta)"/>
+  <text x="705" y="368" text-anchor="middle" fill="white" font-family="Manrope, Arial, sans-serif" font-size="13" font-weight="700">Calcular ROI</text>
+
+  <rect x="810" y="344" width="190" height="38" rx="19" fill="white" stroke="#CAD4DF"/>
+  <text x="905" y="368" text-anchor="middle" fill="#263749" font-family="Manrope, Arial, sans-serif" font-size="13" font-weight="700">Conocer Producto</text>
+
+  <rect x="135" y="416" width="430" height="196" rx="18" fill="#FFFFFF" stroke="#D7DFE9"/>
+  <text x="163" y="455" fill="#132135" font-family="'DM Serif Display', Georgia, serif" font-size="30">Misión</text>
+  <text x="163" y="488" fill="#5B697B" font-family="Manrope, Arial, sans-serif" font-size="15">Reducir merma con decisiones</text>
+  <text x="163" y="510" fill="#5B697B" font-family="Manrope, Arial, sans-serif" font-size="15">operativas basadas en datos.</text>
+
+  <rect x="585" y="416" width="430" height="196" rx="18" fill="#FFFFFF" stroke="#D7DFE9"/>
+  <text x="613" y="455" fill="#132135" font-family="'DM Serif Display', Georgia, serif" font-size="30">Visión</text>
+  <text x="613" y="488" fill="#5B697B" font-family="Manrope, Arial, sans-serif" font-size="15">Liderar la transformación de calidad</text>
+  <text x="613" y="510" fill="#5B697B" font-family="Manrope, Arial, sans-serif" font-size="15">en retail alimentario.</text>
+
+  <rect x="1035" y="416" width="430" height="196" rx="18" fill="#FFFFFF" stroke="#D7DFE9"/>
+  <text x="1063" y="455" fill="#132135" font-family="'DM Serif Display', Georgia, serif" font-size="30">Valores</text>
+  <circle cx="1073" cy="486" r="4" fill="#BF2D2D"/>
+  <text x="1088" y="491" fill="#5B697B" font-family="Manrope, Arial, sans-serif" font-size="15">Precisión operativa</text>
+  <circle cx="1073" cy="514" r="4" fill="#CC9431"/>
+  <text x="1088" y="519" fill="#5B697B" font-family="Manrope, Arial, sans-serif" font-size="15">Velocidad comercial</text>
+  <circle cx="1073" cy="542" r="4" fill="#25835F"/>
+  <text x="1088" y="547" fill="#5B697B" font-family="Manrope, Arial, sans-serif" font-size="15">Impacto medible</text>
+
+  <rect x="135" y="638" width="1330" height="196" rx="18" fill="#0F2232"/>
+  <text x="170" y="684" fill="#E7F2FB" font-family="'DM Serif Display', Georgia, serif" font-size="35">Quality Score</text>
+  <circle cx="178" cy="716" r="6" fill="#25835F"/>
+  <text x="196" y="721" fill="#B7CBDA" font-family="Manrope, Arial, sans-serif" font-size="15">Seguro</text>
+  <circle cx="288" cy="716" r="6" fill="#CC9431"/>
+  <text x="306" y="721" fill="#B7CBDA" font-family="Manrope, Arial, sans-serif" font-size="15">Vender pronto</text>
+  <circle cx="446" cy="716" r="6" fill="#BF2D2D"/>
+  <text x="464" y="721" fill="#B7CBDA" font-family="Manrope, Arial, sans-serif" font-size="15">Riesgo alto</text>
+
+  <rect x="1020" y="672" width="410" height="130" rx="16" fill="#132D41" stroke="#1D445F"/>
+  <text x="1050" y="712" fill="#A8C0D4" font-family="Manrope, Arial, sans-serif" font-size="13">Ahorro mensual recuperado</text>
+  <text x="1050" y="748" fill="#FFFFFF" font-family="Manrope, Arial, sans-serif" font-size="36" font-weight="800">$10,000 MXN</text>
+</svg>

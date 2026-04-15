@@ -1,0 +1,22 @@
+a:focus-visible,
+button:focus-visible,
+input:focus-visible,
+select:focus-visible,
+textarea:focus-visible,
+[role="button"]:focus-visible,
+[role="tab"]:focus-visible {
+  outline: 3px solid rgba(58, 120, 198, 0.55);
+  outline-offset: 2px;
+}
+
+.nav-chip {
+  min-height: 34px;
+}
+
+.auth-user-label {
+  color: #0f2f56;
+}
+
+.panel-dark .metric-label {
+  color: #f0f6ff;
+}

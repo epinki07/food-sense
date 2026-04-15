@@ -1,0 +1,13 @@
+<svg width="600" height="380" viewBox="0 0 600 380" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="600" height="380" rx="28" fill="#F3F9F5"/>
+  <rect x="84" y="94" width="432" height="222" rx="24" fill="#FFFFFF" stroke="#D6E5DB"/>
+  <ellipse cx="300" cy="224" rx="150" ry="78" fill="#E6F4EC" stroke="#B9D8C4"/>
+  <circle cx="232" cy="203" r="28" fill="#7ABC6A"/>
+  <circle cx="278" cy="184" r="22" fill="#6FB45E"/>
+  <circle cx="332" cy="199" r="30" fill="#88C978"/>
+  <circle cx="374" cy="216" r="25" fill="#75B766"/>
+  <circle cx="266" cy="234" r="10" fill="#F6C55E"/>
+  <circle cx="320" cy="231" r="10" fill="#F6C55E"/>
+  <circle cx="354" cy="188" r="9" fill="#F45B5B"/>
+  <text x="300" y="67" text-anchor="middle" fill="#284033" font-family="Manrope, Arial, sans-serif" font-size="30" font-weight="700">Ensalada fresca</text>
+</svg>

@@ -1,0 +1,307 @@
+{"name":"lcp","value":2000,"detail":{},"path":"","ts":1772317578064,"ua":""}
+{"name":"lcp","value":1800,"detail":{},"path":"","ts":1772317578064,"ua":""}
+{"name":"cls","value":0.12,"detail":{},"path":"","ts":1772317578064,"ua":""}
+{"name":"lcp","value":2000,"detail":{},"path":"","ts":1772317624453,"ua":""}
+{"name":"lcp","value":1800,"detail":{},"path":"","ts":1772317624453,"ua":""}
+{"name":"cls","value":0.12,"detail":{},"path":"","ts":1772317624453,"ua":""}
+{"name":"lcp","value":2000,"detail":{},"path":"","ts":1772318221665,"ua":""}
+{"name":"lcp","value":1800,"detail":{},"path":"","ts":1772318221665,"ua":""}
+{"name":"cls","value":0.12,"detail":{},"path":"","ts":1772318221665,"ua":""}
+{"name":"lcp","value":2000,"detail":{},"path":"","ts":1772318279030,"ua":""}
+{"name":"cls","value":0.12,"detail":{},"path":"","ts":1772318279030,"ua":""}
+{"name":"lcp","value":1800,"detail":{},"path":"","ts":1772318279030,"ua":""}
+{"name":"lcp","value":2000,"detail":{},"path":"","ts":1772318780540,"ua":""}
+{"name":"cls","value":0.12,"detail":{},"path":"","ts":1772318780540,"ua":""}
+{"name":"lcp","value":1800,"detail":{},"path":"","ts":1772318780540,"ua":""}
+{"name":"lcp","value":1800,"detail":{},"path":"","ts":1772319152455,"ua":""}
+{"name":"lcp","value":2000,"detail":{},"path":"","ts":1772319152455,"ua":""}
+{"name":"cls","value":0.12,"detail":{},"path":"","ts":1772319152455,"ua":""}
+{"name":"lcp","value":2000,"detail":{},"path":"","ts":1772319773845,"ua":""}
+{"name":"cls","value":0.12,"detail":{},"path":"","ts":1772319773846,"ua":""}
+{"name":"lcp","value":1800,"detail":{},"path":"","ts":1772319773846,"ua":""}
+{"name":"lcp","value":2000,"detail":{},"path":"","ts":1772319802804,"ua":""}
+{"name":"lcp","value":1800,"detail":{},"path":"","ts":1772319802804,"ua":""}
+{"name":"cls","value":0.12,"detail":{},"path":"","ts":1772319802804,"ua":""}
+{"name":"lcp","value":2000,"detail":{},"path":"","ts":1772319979957,"ua":""}
+{"name":"lcp","value":1800,"detail":{},"path":"","ts":1772319979957,"ua":""}
+{"name":"cls","value":0.12,"detail":{},"path":"","ts":1772319979957,"ua":""}
+{"name":"ttfb","value":48.9,"detail":{"kind":"navigation"},"path":"/","ts":1772320377806,"ua":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"}
+{"name":"lcp","value":1800,"detail":{},"path":"","ts":1772320559256,"ua":""}
+{"name":"lcp","value":2000,"detail":{},"path":"","ts":1772320559256,"ua":""}
+{"name":"cls","value":0.12,"detail":{},"path":"","ts":1772320559256,"ua":""}
+{"name":"lcp","value":2000,"detail":{},"path":"","ts":1772320597030,"ua":""}
+{"name":"cls","value":0.12,"detail":{},"path":"","ts":1772320597030,"ua":""}
+{"name":"lcp","value":1800,"detail":{},"path":"","ts":1772320597030,"ua":""}
+{"name":"lcp","value":2000,"detail":{},"path":"","ts":1772320674502,"ua":""}
+{"name":"lcp","value":1800,"detail":{},"path":"","ts":1772320674502,"ua":""}
+{"name":"cls","value":0.12,"detail":{},"path":"","ts":1772320674502,"ua":""}
+{"name":"lcp","value":2000,"detail":{},"path":"","ts":1772320723013,"ua":""}
+{"name":"cls","value":0.12,"detail":{},"path":"","ts":1772320723014,"ua":""}
+{"name":"lcp","value":1800,"detail":{},"path":"","ts":1772320723013,"ua":""}
+{"name":"ttfb","value":16,"detail":{"kind":"navigation"},"path":"/","ts":1772320803062,"ua":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.3 Safari/605.1.15"}
+{"name":"fcp","value":509,"detail":{},"path":"/","ts":1772320803062,"ua":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.3 Safari/605.1.15"}
+{"name":"lcp","value":562,"detail":{},"path":"/","ts":1772320805123,"ua":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.3 Safari/605.1.15"}
+{"name":"lcp","value":562,"detail":{},"path":"/","ts":1772320846144,"ua":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.3 Safari/605.1.15"}
+{"name":"inp","value":120,"detail":{},"path":"/","ts":1772320846144,"ua":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.3 Safari/605.1.15"}
+{"name":"lcp","value":2000,"detail":{},"path":"","ts":1772320936702,"ua":""}
+{"name":"lcp","value":1800,"detail":{},"path":"","ts":1772320936702,"ua":""}
+{"name":"cls","value":0.12,"detail":{},"path":"","ts":1772320936702,"ua":""}
+{"name":"lcp","value":2000,"detail":{},"path":"","ts":1772321071711,"ua":""}
+{"name":"cls","value":0.12,"detail":{},"path":"","ts":1772321071711,"ua":""}
+{"name":"lcp","value":1800,"detail":{},"path":"","ts":1772321071711,"ua":""}
+{"name":"lcp","value":2000,"detail":{},"path":"","ts":1772321265969,"ua":""}
+{"name":"cls","value":0.12,"detail":{},"path":"","ts":1772321265969,"ua":""}
+{"name":"lcp","value":1800,"detail":{},"path":"","ts":1772321265969,"ua":""}
+{"name":"lcp","value":562,"detail":{},"path":"/","ts":1772321386396,"ua":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.3 Safari/605.1.15"}
+{"name":"inp","value":120,"detail":{},"path":"/","ts":1772321386396,"ua":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.3 Safari/605.1.15"}
+{"name":"ttfb","value":6,"detail":{"kind":"navigation"},"path":"/","ts":1772321389310,"ua":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.3 Safari/605.1.15"}
+{"name":"lcp","value":77,"detail":{},"path":"/","ts":1772321406625,"ua":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.3 Safari/605.1.15"}
+{"name":"lcp","value":77,"detail":{},"path":"/","ts":1772321406826,"ua":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.3 Safari/605.1.15"}
+{"name":"lcp","value":77,"detail":{},"path":"/","ts":1772321424228,"ua":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.3 Safari/605.1.15"}
+{"name":"lcp","value":2000,"detail":{},"path":"","ts":1772321565012,"ua":""}
+{"name":"cls","value":0.12,"detail":{},"path":"","ts":1772321565012,"ua":""}
+{"name":"lcp","value":1800,"detail":{},"path":"","ts":1772321565012,"ua":""}
+{"name":"lcp","value":2000,"detail":{},"path":"","ts":1772321616790,"ua":""}
+{"name":"lcp","value":1800,"detail":{},"path":"","ts":1772321616790,"ua":""}
+{"name":"cls","value":0.12,"detail":{},"path":"","ts":1772321616790,"ua":""}
+{"name":"ttfb","value":10,"detail":{"kind":"navigation"},"path":"/","ts":1772321654462,"ua":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.3 Safari/605.1.15"}
+{"name":"lcp","value":2000,"detail":{},"path":"","ts":1772321843933,"ua":""}
+{"name":"lcp","value":1800,"detail":{},"path":"","ts":1772321843933,"ua":""}
+{"name":"cls","value":0.12,"detail":{},"path":"","ts":1772321843933,"ua":""}
+{"name":"lcp","value":85,"detail":{},"path":"/","ts":1772321875027,"ua":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.3 Safari/605.1.15"}
+{"name":"inp","value":48,"detail":{},"path":"/","ts":1772321875028,"ua":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.3 Safari/605.1.15"}
+{"name":"ttfb","value":14,"detail":{"kind":"navigation"},"path":"/","ts":1772321875063,"ua":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.3 Safari/605.1.15"}
+{"name":"lcp","value":2000,"detail":{},"path":"","ts":1772321977594,"ua":""}
+{"name":"cls","value":0.12,"detail":{},"path":"","ts":1772321977594,"ua":""}
+{"name":"lcp","value":1800,"detail":{},"path":"","ts":1772321977594,"ua":""}
+{"name":"ttfb","value":9,"detail":{"kind":"navigation"},"path":"/","ts":1772322019086,"ua":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.3 Safari/605.1.15"}
+{"name":"lcp","value":105,"detail":{},"path":"/","ts":1772322065850,"ua":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.3 Safari/605.1.15"}
+{"name":"lcp","value":838,"detail":{},"path":"/","ts":1772322065850,"ua":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.3 Safari/605.1.15"}
+{"name":"ttfb","value":11,"detail":{"kind":"navigation"},"path":"/","ts":1772322132511,"ua":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.3 Safari/605.1.15"}
+{"name":"ttfb","value":7,"detail":{"kind":"navigation"},"path":"/","ts":1772322132562,"ua":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.3 Safari/605.1.15"}
+{"name":"lcp","value":2000,"detail":{},"path":"","ts":1772322723070,"ua":""}
+{"name":"lcp","value":1800,"detail":{},"path":"","ts":1772322723070,"ua":""}
+{"name":"cls","value":0.12,"detail":{},"path":"","ts":1772322723070,"ua":""}
+{"name":"lcp","value":96,"detail":{},"path":"/","ts":1772322747199,"ua":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.3 Safari/605.1.15"}
+{"name":"lcp","value":96,"detail":{},"path":"/","ts":1772322750749,"ua":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.3 Safari/605.1.15"}
+{"name":"inp","value":72,"detail":{},"path":"/","ts":1772322750750,"ua":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.3 Safari/605.1.15"}
+{"name":"fcp","value":781,"detail":{},"path":"/","ts":1772322750812,"ua":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.3 Safari/605.1.15"}
+{"name":"ttfb","value":4,"detail":{"kind":"navigation"},"path":"/","ts":1772322750812,"ua":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.3 Safari/605.1.15"}
+{"name":"lcp","value":2000,"detail":{},"path":"","ts":1772322754151,"ua":""}
+{"name":"cls","value":0.12,"detail":{},"path":"","ts":1772322754151,"ua":""}
+{"name":"lcp","value":1800,"detail":{},"path":"","ts":1772322754151,"ua":""}
+{"name":"lcp","value":814,"detail":{},"path":"/","ts":1772322759943,"ua":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.3 Safari/605.1.15"}
+{"name":"lcp","value":814,"detail":{},"path":"/","ts":1772322800030,"ua":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.3 Safari/605.1.15"}
+{"name":"ttfb","value":6,"detail":{"kind":"navigation"},"path":"/","ts":1772322804845,"ua":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.3 Safari/605.1.15"}
+{"name":"lcp","value":104,"detail":{},"path":"/","ts":1772322883965,"ua":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.3 Safari/605.1.15"}
+{"name":"lcp","value":2000,"detail":{},"path":"","ts":1772322933254,"ua":""}
+{"name":"lcp","value":1800,"detail":{},"path":"","ts":1772322933254,"ua":""}
+{"name":"cls","value":0.12,"detail":{},"path":"","ts":1772322933254,"ua":""}
+{"name":"lcp","value":104,"detail":{},"path":"/","ts":1772323082815,"ua":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.3 Safari/605.1.15"}
+{"name":"inp","value":264,"detail":{},"path":"/","ts":1772323082816,"ua":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.3 Safari/605.1.15"}
+{"name":"lcp","value":104,"detail":{},"path":"/","ts":1772323101349,"ua":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.3 Safari/605.1.15"}
+{"name":"inp","value":264,"detail":{},"path":"/","ts":1772323101349,"ua":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.3 Safari/605.1.15"}
+{"name":"ttfb","value":16,"detail":{"kind":"navigation"},"path":"/","ts":1772323101371,"ua":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.3 Safari/605.1.15"}
+{"name":"lcp","value":2000,"detail":{},"path":"","ts":1772323570951,"ua":""}
+{"name":"lcp","value":1800,"detail":{},"path":"","ts":1772323570951,"ua":""}
+{"name":"cls","value":0.12,"detail":{},"path":"","ts":1772323570951,"ua":""}
+{"name":"lcp","value":2000,"detail":{},"path":"","ts":1772324128022,"ua":""}
+{"name":"lcp","value":1800,"detail":{},"path":"","ts":1772324128022,"ua":""}
+{"name":"cls","value":0.12,"detail":{},"path":"","ts":1772324128022,"ua":""}
+{"name":"lcp","value":2000,"detail":{},"path":"","ts":1772324158526,"ua":""}
+{"name":"lcp","value":1800,"detail":{},"path":"","ts":1772324158526,"ua":""}
+{"name":"cls","value":0.12,"detail":{},"path":"","ts":1772324158526,"ua":""}
+{"name":"lcp","value":2000,"detail":{},"path":"","ts":1772324450145,"ua":""}
+{"name":"cls","value":0.12,"detail":{},"path":"","ts":1772324450145,"ua":""}
+{"name":"lcp","value":1800,"detail":{},"path":"","ts":1772324450145,"ua":""}
+{"name":"lcp","value":2000,"detail":{},"path":"","ts":1772324473761,"ua":""}
+{"name":"lcp","value":1800,"detail":{},"path":"","ts":1772324473761,"ua":""}
+{"name":"cls","value":0.12,"detail":{},"path":"","ts":1772324473761,"ua":""}
+{"name":"lcp","value":2000,"detail":{},"path":"","ts":1772324553583,"ua":""}
+{"name":"lcp","value":1800,"detail":{},"path":"","ts":1772324553583,"ua":""}
+{"name":"cls","value":0.12,"detail":{},"path":"","ts":1772324553583,"ua":""}
+{"name":"lcp","value":2000,"detail":{},"path":"","ts":1772324789892,"ua":""}
+{"name":"cls","value":0.12,"detail":{},"path":"","ts":1772324789892,"ua":""}
+{"name":"lcp","value":1800,"detail":{},"path":"","ts":1772324789892,"ua":""}
+{"name":"lcp","value":2000,"detail":{},"path":"","ts":1772324968614,"ua":""}
+{"name":"cls","value":0.12,"detail":{},"path":"","ts":1772324968614,"ua":""}
+{"name":"lcp","value":1800,"detail":{},"path":"","ts":1772324968614,"ua":""}
+{"name":"lcp","value":1800,"detail":{},"path":"","ts":1772325083405,"ua":""}
+{"name":"lcp","value":2000,"detail":{},"path":"","ts":1772325083405,"ua":""}
+{"name":"cls","value":0.12,"detail":{},"path":"","ts":1772325083405,"ua":""}
+{"name":"lcp","value":2000,"detail":{},"path":"","ts":1772325704616,"ua":""}
+{"name":"lcp","value":1800,"detail":{},"path":"","ts":1772325704616,"ua":""}
+{"name":"cls","value":0.12,"detail":{},"path":"","ts":1772325704616,"ua":""}
+{"name":"lcp","value":2000,"detail":{},"path":"","ts":1772325882610,"ua":""}
+{"name":"lcp","value":1800,"detail":{},"path":"","ts":1772325882610,"ua":""}
+{"name":"cls","value":0.12,"detail":{},"path":"","ts":1772325882610,"ua":""}
+{"name":"lcp","value":1800,"detail":{},"path":"","ts":1772325904921,"ua":""}
+{"name":"lcp","value":2000,"detail":{},"path":"","ts":1772325904921,"ua":""}
+{"name":"cls","value":0.12,"detail":{},"path":"","ts":1772325904921,"ua":""}
+{"name":"lcp","value":2000,"detail":{},"path":"","ts":1772326441927,"ua":""}
+{"name":"cls","value":0.12,"detail":{},"path":"","ts":1772326441927,"ua":""}
+{"name":"lcp","value":1800,"detail":{},"path":"","ts":1772326441927,"ua":""}
+{"name":"lcp","value":2000,"detail":{},"path":"","ts":1772326462052,"ua":""}
+{"name":"cls","value":0.12,"detail":{},"path":"","ts":1772326462052,"ua":""}
+{"name":"lcp","value":1800,"detail":{},"path":"","ts":1772326462052,"ua":""}
+{"name":"lcp","value":2000,"detail":{},"path":"","ts":1772326638406,"ua":""}
+{"name":"lcp","value":1800,"detail":{},"path":"","ts":1772326638407,"ua":""}
+{"name":"cls","value":0.12,"detail":{},"path":"","ts":1772326638407,"ua":""}
+{"name":"lcp","value":2000,"detail":{},"path":"","ts":1772326717015,"ua":""}
+{"name":"cls","value":0.12,"detail":{},"path":"","ts":1772326717015,"ua":""}
+{"name":"lcp","value":1800,"detail":{},"path":"","ts":1772326717015,"ua":""}
+{"name":"lcp","value":2000,"detail":{},"path":"","ts":1772326814805,"ua":""}
+{"name":"cls","value":0.12,"detail":{},"path":"","ts":1772326814805,"ua":""}
+{"name":"lcp","value":1800,"detail":{},"path":"","ts":1772326814805,"ua":""}
+{"name":"lcp","value":2000,"detail":{},"path":"","ts":1772326877526,"ua":""}
+{"name":"lcp","value":1800,"detail":{},"path":"","ts":1772326877526,"ua":""}
+{"name":"cls","value":0.12,"detail":{},"path":"","ts":1772326877526,"ua":""}
+{"name":"lcp","value":2000,"detail":{},"path":"","ts":1772327295850,"ua":""}
+{"name":"cls","value":0.12,"detail":{},"path":"","ts":1772327295850,"ua":""}
+{"name":"lcp","value":1800,"detail":{},"path":"","ts":1772327295850,"ua":""}
+{"name":"lcp","value":2000,"detail":{},"path":"","ts":1772327972117,"ua":""}
+{"name":"lcp","value":1800,"detail":{},"path":"","ts":1772327972117,"ua":""}
+{"name":"cls","value":0.12,"detail":{},"path":"","ts":1772327972117,"ua":""}
+{"name":"lcp","value":2000,"detail":{},"path":"","ts":1772328240885,"ua":""}
+{"name":"lcp","value":1800,"detail":{},"path":"","ts":1772328240885,"ua":""}
+{"name":"cls","value":0.12,"detail":{},"path":"","ts":1772328240885,"ua":""}
+{"name":"ttfb","value":57.6,"detail":{"kind":"navigation"},"path":"/","ts":1772328355554,"ua":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"}
+{"name":"lcp","value":232,"detail":{},"path":"/","ts":1772328356495,"ua":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"}
+{"name":"ttfb","value":5,"detail":{"kind":"navigation"},"path":"/","ts":1772328364811,"ua":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.3 Safari/605.1.15"}
+{"name":"lcp","value":86,"detail":{},"path":"/","ts":1772328364971,"ua":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.3 Safari/605.1.15"}
+{"name":"ttfb","value":6,"detail":{"kind":"navigation"},"path":"/","ts":1772328364993,"ua":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.3 Safari/605.1.15"}
+{"name":"lcp","value":2000,"detail":{},"path":"","ts":1772328470754,"ua":""}
+{"name":"lcp","value":1800,"detail":{},"path":"","ts":1772328470754,"ua":""}
+{"name":"cls","value":0.12,"detail":{},"path":"","ts":1772328470754,"ua":""}
+{"name":"lcp","value":1800,"detail":{},"path":"","ts":1772329625465,"ua":""}
+{"name":"lcp","value":2000,"detail":{},"path":"","ts":1772329625465,"ua":""}
+{"name":"cls","value":0.12,"detail":{},"path":"","ts":1772329625465,"ua":""}
+{"name":"lcp","value":2000,"detail":{},"path":"","ts":1772330038215,"ua":""}
+{"name":"cls","value":0.12,"detail":{},"path":"","ts":1772330038215,"ua":""}
+{"name":"lcp","value":1800,"detail":{},"path":"","ts":1772330038215,"ua":""}
+{"name":"lcp","value":2000,"detail":{},"path":"","ts":1772330046731,"ua":""}
+{"name":"cls","value":0.12,"detail":{},"path":"","ts":1772330046731,"ua":""}
+{"name":"lcp","value":1800,"detail":{},"path":"","ts":1772330046731,"ua":""}
+{"name":"lcp","value":2000,"detail":{},"path":"","ts":1772333189969,"ua":""}
+{"name":"cls","value":0.12,"detail":{},"path":"","ts":1772333189969,"ua":""}
+{"name":"lcp","value":1800,"detail":{},"path":"","ts":1772333189969,"ua":""}
+{"name":"lcp","value":2000,"detail":{},"path":"","ts":1772333472944,"ua":""}
+{"name":"cls","value":0.12,"detail":{},"path":"","ts":1772333472944,"ua":""}
+{"name":"lcp","value":1800,"detail":{},"path":"","ts":1772333472944,"ua":""}
+{"name":"lcp","value":2000,"detail":{},"path":"","ts":1772339910681,"ua":""}
+{"name":"lcp","value":1800,"detail":{},"path":"","ts":1772339910681,"ua":""}
+{"name":"cls","value":0.12,"detail":{},"path":"","ts":1772339910681,"ua":""}
+{"name":"lcp","value":2000,"detail":{},"path":"","ts":1772340154823,"ua":""}
+{"name":"cls","value":0.12,"detail":{},"path":"","ts":1772340154823,"ua":""}
+{"name":"lcp","value":1800,"detail":{},"path":"","ts":1772340154823,"ua":""}
+{"name":"lcp","value":2000,"detail":{},"path":"","ts":1772340285675,"ua":""}
+{"name":"lcp","value":1800,"detail":{},"path":"","ts":1772340285675,"ua":""}
+{"name":"cls","value":0.12,"detail":{},"path":"","ts":1772340285675,"ua":""}
+{"name":"lcp","value":2000,"detail":{},"path":"","ts":1772340372852,"ua":""}
+{"name":"lcp","value":1800,"detail":{},"path":"","ts":1772340372852,"ua":""}
+{"name":"cls","value":0.12,"detail":{},"path":"","ts":1772340372852,"ua":""}
+{"name":"lcp","value":1800,"detail":{},"path":"","ts":1772340447435,"ua":""}
+{"name":"lcp","value":2000,"detail":{},"path":"","ts":1772340447435,"ua":""}
+{"name":"cls","value":0.12,"detail":{},"path":"","ts":1772340447435,"ua":""}
+{"name":"lcp","value":1800,"detail":{},"path":"","ts":1772340492129,"ua":""}
+{"name":"lcp","value":2000,"detail":{},"path":"","ts":1772340492129,"ua":""}
+{"name":"cls","value":0.12,"detail":{},"path":"","ts":1772340492129,"ua":""}
+{"name":"lcp","value":2000,"detail":{},"path":"","ts":1772340855598,"ua":""}
+{"name":"lcp","value":1800,"detail":{},"path":"","ts":1772340855598,"ua":""}
+{"name":"cls","value":0.12,"detail":{},"path":"","ts":1772340855598,"ua":""}
+{"name":"lcp","value":2000,"detail":{},"path":"","ts":1772341009513,"ua":""}
+{"name":"cls","value":0.12,"detail":{},"path":"","ts":1772341009513,"ua":""}
+{"name":"lcp","value":1800,"detail":{},"path":"","ts":1772341009513,"ua":""}
+{"name":"lcp","value":2000,"detail":{},"path":"","ts":1772374004125,"ua":""}
+{"name":"lcp","value":1800,"detail":{},"path":"","ts":1772374004125,"ua":""}
+{"name":"cls","value":0.12,"detail":{},"path":"","ts":1772374004125,"ua":""}
+{"name":"lcp","value":2000,"detail":{},"path":"","ts":1772374037449,"ua":""}
+{"name":"lcp","value":1800,"detail":{},"path":"","ts":1772374037449,"ua":""}
+{"name":"cls","value":0.12,"detail":{},"path":"","ts":1772374037449,"ua":""}
+{"name":"lcp","value":2000,"detail":{},"path":"","ts":1772374693265,"ua":""}
+{"name":"lcp","value":1800,"detail":{},"path":"","ts":1772374693265,"ua":""}
+{"name":"cls","value":0.12,"detail":{},"path":"","ts":1772374693265,"ua":""}
+{"name":"lcp","value":1800,"detail":{},"path":"","ts":1772374956841,"ua":""}
+{"name":"lcp","value":2000,"detail":{},"path":"","ts":1772374956841,"ua":""}
+{"name":"cls","value":0.12,"detail":{},"path":"","ts":1772374956841,"ua":""}
+{"name":"lcp","value":2000,"detail":{},"path":"","ts":1772374989736,"ua":""}
+{"name":"cls","value":0.12,"detail":{},"path":"","ts":1772374989736,"ua":""}
+{"name":"lcp","value":1800,"detail":{},"path":"","ts":1772374989736,"ua":""}
+{"name":"lcp","value":2000,"detail":{},"path":"","ts":1772375209557,"ua":""}
+{"name":"lcp","value":1800,"detail":{},"path":"","ts":1772375209557,"ua":""}
+{"name":"cls","value":0.12,"detail":{},"path":"","ts":1772375209557,"ua":""}
+{"name":"lcp","value":2000,"detail":{},"path":"","ts":1772376354521,"ua":""}
+{"name":"cls","value":0.12,"detail":{},"path":"","ts":1772376354521,"ua":""}
+{"name":"lcp","value":1800,"detail":{},"path":"","ts":1772376354521,"ua":""}
+{"name":"lcp","value":2000,"detail":{},"path":"","ts":1772376369183,"ua":""}
+{"name":"cls","value":0.12,"detail":{},"path":"","ts":1772376369183,"ua":""}
+{"name":"lcp","value":1800,"detail":{},"path":"","ts":1772376369183,"ua":""}
+{"name":"lcp","value":2000,"detail":{},"path":"","ts":1772376766622,"ua":""}
+{"name":"lcp","value":1800,"detail":{},"path":"","ts":1772376766622,"ua":""}
+{"name":"cls","value":0.12,"detail":{},"path":"","ts":1772376766622,"ua":""}
+{"name":"lcp","value":2000,"detail":{},"path":"","ts":1772376914369,"ua":""}
+{"name":"lcp","value":1800,"detail":{},"path":"","ts":1772376914369,"ua":""}
+{"name":"cls","value":0.12,"detail":{},"path":"","ts":1772376914369,"ua":""}
+{"name":"lcp","value":2000,"detail":{},"path":"","ts":1772377094716,"ua":""}
+{"name":"lcp","value":1800,"detail":{},"path":"","ts":1772377094716,"ua":""}
+{"name":"cls","value":0.12,"detail":{},"path":"","ts":1772377094716,"ua":""}
+{"name":"lcp","value":2000,"detail":{},"path":"","ts":1772377224576,"ua":""}
+{"name":"lcp","value":1800,"detail":{},"path":"","ts":1772377224576,"ua":""}
+{"name":"cls","value":0.12,"detail":{},"path":"","ts":1772377224576,"ua":""}
+{"name":"lcp","value":2000,"detail":{},"path":"","ts":1772378786941,"ua":""}
+{"name":"lcp","value":1800,"detail":{},"path":"","ts":1772378786941,"ua":""}
+{"name":"cls","value":0.12,"detail":{},"path":"","ts":1772378786941,"ua":""}
+{"name":"lcp","value":2000,"detail":{},"path":"","ts":1772378861190,"ua":""}
+{"name":"cls","value":0.12,"detail":{},"path":"","ts":1772378861190,"ua":""}
+{"name":"lcp","value":1800,"detail":{},"path":"","ts":1772378861190,"ua":""}
+{"name":"lcp","value":2000,"detail":{},"path":"","ts":1772378983346,"ua":""}
+{"name":"lcp","value":1800,"detail":{},"path":"","ts":1772378983346,"ua":""}
+{"name":"cls","value":0.12,"detail":{},"path":"","ts":1772378983346,"ua":""}
+{"name":"lcp","value":2000,"detail":{},"path":"","ts":1772379276518,"ua":""}
+{"name":"lcp","value":1800,"detail":{},"path":"","ts":1772379276518,"ua":""}
+{"name":"cls","value":0.12,"detail":{},"path":"","ts":1772379276518,"ua":""}
+{"name":"lcp","value":2000,"detail":{},"path":"","ts":1772379376900,"ua":""}
+{"name":"lcp","value":1800,"detail":{},"path":"","ts":1772379376900,"ua":""}
+{"name":"cls","value":0.12,"detail":{},"path":"","ts":1772379376900,"ua":""}
+{"name":"lcp","value":2000,"detail":{},"path":"","ts":1772380874325,"ua":""}
+{"name":"lcp","value":1800,"detail":{},"path":"","ts":1772380874325,"ua":""}
+{"name":"cls","value":0.12,"detail":{},"path":"","ts":1772380874325,"ua":""}
+{"name":"lcp","value":2000,"detail":{},"path":"","ts":1772381305260,"ua":""}
+{"name":"lcp","value":1800,"detail":{},"path":"","ts":1772381305260,"ua":""}
+{"name":"cls","value":0.12,"detail":{},"path":"","ts":1772381305260,"ua":""}
+{"name":"lcp","value":2000,"detail":{},"path":"","ts":1772381475809,"ua":""}
+{"name":"lcp","value":1800,"detail":{},"path":"","ts":1772381475809,"ua":""}
+{"name":"cls","value":0.12,"detail":{},"path":"","ts":1772381475809,"ua":""}
+{"name":"lcp","value":2000,"detail":{},"path":"","ts":1772381879907,"ua":""}
+{"name":"cls","value":0.12,"detail":{},"path":"","ts":1772381879907,"ua":""}
+{"name":"lcp","value":1800,"detail":{},"path":"","ts":1772381879907,"ua":""}
+{"name":"lcp","value":2000,"detail":{},"path":"","ts":1772381903678,"ua":""}
+{"name":"cls","value":0.12,"detail":{},"path":"","ts":1772381903678,"ua":""}
+{"name":"lcp","value":1800,"detail":{},"path":"","ts":1772381903678,"ua":""}
+{"name":"lcp","value":2000,"detail":{},"path":"","ts":1772382217678,"ua":""}
+{"name":"lcp","value":1800,"detail":{},"path":"","ts":1772382217678,"ua":""}
+{"name":"cls","value":0.12,"detail":{},"path":"","ts":1772382217678,"ua":""}
+{"name":"lcp","value":2000,"detail":{},"path":"","ts":1772382233427,"ua":""}
+{"name":"cls","value":0.12,"detail":{},"path":"","ts":1772382233427,"ua":""}
+{"name":"lcp","value":1800,"detail":{},"path":"","ts":1772382233427,"ua":""}
+{"name":"lcp","value":2000,"detail":{},"path":"","ts":1772383215803,"ua":""}
+{"name":"lcp","value":1800,"detail":{},"path":"","ts":1772383215803,"ua":""}
+{"name":"cls","value":0.12,"detail":{},"path":"","ts":1772383215803,"ua":""}
+{"name":"lcp","value":2000,"detail":{},"path":"","ts":1772383475809,"ua":""}
+{"name":"lcp","value":1800,"detail":{},"path":"","ts":1772383475810,"ua":""}
+{"name":"cls","value":0.12,"detail":{},"path":"","ts":1772383475810,"ua":""}
+{"name":"lcp","value":2000,"detail":{},"path":"","ts":1772383635052,"ua":""}
+{"name":"lcp","value":1800,"detail":{},"path":"","ts":1772383635053,"ua":""}
+{"name":"cls","value":0.12,"detail":{},"path":"","ts":1772383635053,"ua":""}
+{"name":"lcp","value":2000,"detail":{},"path":"","ts":1772383681434,"ua":""}
+{"name":"lcp","value":1800,"detail":{},"path":"","ts":1772383681434,"ua":""}
+{"name":"cls","value":0.12,"detail":{},"path":"","ts":1772383681434,"ua":""}
+{"name":"lcp","value":2000,"detail":{},"path":"","ts":1772679219558,"ua":""}
+{"name":"lcp","value":1800,"detail":{},"path":"","ts":1772679219558,"ua":""}
+{"name":"cls","value":0.12,"detail":{},"path":"","ts":1772679219558,"ua":""}
+{"name":"lcp","value":2000,"detail":{},"path":"","ts":1775154158891,"ua":""}
+{"name":"lcp","value":1800,"detail":{},"path":"","ts":1775154158892,"ua":""}
+{"name":"cls","value":0.12,"detail":{},"path":"","ts":1775154158892,"ua":""}
+{"name":"lcp","value":2000,"detail":{},"path":"","ts":1775154223843,"ua":""}
+{"name":"lcp","value":1800,"detail":{},"path":"","ts":1775154223843,"ua":""}
+{"name":"cls","value":0.12,"detail":{},"path":"","ts":1775154223843,"ua":""}
