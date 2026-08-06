@@ -10,6 +10,10 @@ Abre: `http://localhost:3000`
 
 El servidor carga automáticamente variables desde `.env` (si existe).
 
+> Seguridad: `.env` es local y no debe subirse al repositorio. Usa
+> `.env.example` como plantilla y configura secretos reales en el entorno de
+> despliegue.
+
 ## Credenciales demo
 
 - Usuario: `diegopro`

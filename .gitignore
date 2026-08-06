@@ -1,0 +1,12 @@
+.DS_Store
+node_modules/
+dist/
+coverage/
+
+# Local environment files
+.env
+.env.*
+!*.env.example
+sqad-landing/.env
+sqad-landing/.env.*
+!sqad-landing/.env.example
