@@ -1,4 +1,6 @@
 .DS_Store
+*.py[cod]
+__pycache__/
 node_modules/
 dist/
 coverage/
