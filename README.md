@@ -53,7 +53,7 @@ npm start
 **Diego Ramirez Magana**
 
 - dramirezmagana@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/diego-ramirez-maga%C3%B1a-b15022298/)
+- [LinkedIn](https://www.linkedin.com/in/diego-ramirez-magana-backend/)
 - [GitHub](https://github.com/epinki07)
 
 ---
