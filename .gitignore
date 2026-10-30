@@ -12,3 +12,6 @@ coverage/
 sqad-landing/.env
 sqad-landing/.env.*
 !sqad-landing/.env.example
+
+sqad-landing/dist/
+SESSION_CONTEXT.md
